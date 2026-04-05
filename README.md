@@ -6,11 +6,11 @@ Analyzed a Kaggle dataset on drug reviews, examining factors like effectiveness,
 ## Files
 - `Dataset.ipynb` – Jupyter notebook containing the full data analysis  
 - `Drug_clean.csv` – Cleaned dataset used for analysis  
-- `Figure_description.pdf` – Description of figures and visualizations  
-- `usersatisfaction.pdf` – Report summarizing findings and insights  
+- [Figure_description.pdf](Figure_description.pdf) – Description of figures and visualizations  
+- [usersatisfaction.pdf](usersatisfaction.pdf) – Report summarizing findings and insights  
 
 ## Visualizations
-- Bar charts, scatterplots, and heatmaps highlighting correlations and key drivers of satisfaction
+Bar charts, scatterplots, and heatmaps highlighting correlations and key drivers of satisfaction
 
 ## Skills Developed
 - Data cleaning and preparation  
